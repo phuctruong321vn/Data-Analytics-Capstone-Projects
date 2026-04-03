@@ -13,5 +13,5 @@
 
 ## Tech Stack & Pipeline
 - **Python (Pandas):** Tiền xử lý dữ liệu (Data Cleaning), EDA, Tạo biến `Tenure Group`, đếm số lượng `Total Services`.
-- **SQL Server (SSMS):** Quản trị cơ sở dữ liệu, xây dựng Lớp Ngữ nghĩa (Semantic Layer) bằng cách tạo `VIEW` chuẩn hóa logic.
+- **SQL Server (SSMS):** tạo `VIEW` và kết nối với Power BI.
 - **Power BI:** Xây dựng mô hình dữ liệu (Data Modeling), DAX , thiết kế Dashboard  (Slicers, Tooltips đa chiều).
