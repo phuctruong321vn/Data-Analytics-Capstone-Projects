@@ -1,4 +1,4 @@
-# Telecom Customer Churn Analysis - End-to-End Data Pipeline
+# Telecom Customer Churn Analysis 
 
 ## Executive Summary
 <img width="994" height="577" alt="{625C199B-C6FD-4DDF-A2DA-41FE10C151BA}" src="https://github.com/user-attachments/assets/97f92d5d-f9ec-4905-8c67-c2ea71176f97" />
